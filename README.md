@@ -20,6 +20,7 @@ Citation:
 Setup & Training
 
 Pytorch 1.2.0+
+Das Training basiert auf einem eigenen Datensatz.
 
 1. Preprosessing: Videos in Frames zerlegen und auf 250x250 bzw 128x128 verkleinern
 2. get_paths_labels ausführen, um Datenset aus Label und Frame zu erstellen
